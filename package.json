@@ -3,6 +3,7 @@
     "publisher": "pukima",
     "displayName": "Saturated Dark Terminal",
     "description": "A Theme made for Troler based on his Terminal.",
+    "repository": {"url": "https://github.com/Pukimaa/SDTerminal-vsc-theme"},
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.56.0"
