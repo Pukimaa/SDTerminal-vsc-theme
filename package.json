@@ -1,0 +1,22 @@
+{
+    "name": "sd-terminal",
+    "publisher": "pukima",
+    "displayName": "Saturated Dark Terminal",
+    "description": "A Theme made for Troler based on his Terminal.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Troler Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Troler Theme-color-theme.json"
+            }
+        ]
+    }
+}
