@@ -4,7 +4,7 @@
     "displayName": "Saturated Dark Terminal",
     "description": "A Theme made for Troler based on his Terminal.",
     "repository": {"url": "https://github.com/Pukimaa/SDTerminal-vsc-theme"},
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.56.0"
     },
@@ -14,9 +14,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Troler Theme",
+                "label": "SD Terminal",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Troler Theme-color-theme.json"
+                "path": "./themes/SDTerminal-color-theme.json"
             }
         ]
     }
